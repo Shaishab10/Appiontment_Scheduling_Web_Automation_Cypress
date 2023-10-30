@@ -1,6 +1,6 @@
 # <div align=center> Appiontment Scheduling Web Automation with Cypress </div>
 
-### <div align=center> In this repository, Cypress used to automate the appointment scheduling on a Katalon demo site.
+### <div align=center> In this repository, Cypress used to automated the appointment scheduling on a Katalon demo site.
 
 ### Tools & Technology used:
 
